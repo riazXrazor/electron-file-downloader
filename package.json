@@ -1,0 +1,22 @@
+{
+  "name": "electron-file-downloader",
+  "version": "0.0.1",
+  "description": "Simple file downloader library from electron app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riazXrazor/electron-file-downloader.git"
+  },
+  "author": "Riaz Ali Laskar",
+  "url": "https://github.com/riazXrazor/electron-file-downloader/issues",
+  "email": "riazcool77@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "ext-name": "^5.0.0",
+    "pupa": "^1.0.0",
+    "unused-filename": "^1.0.0"
+  }
+}
