@@ -116,13 +116,13 @@ Type: `Function`
 Optional callback that receives a number of info for the current download.
 
 ```
-			progress 	// download progress
-			speed   	// download speed
-			remaining 	// download size remaining in bytes
-			status		// status of download item can be `progressing`, `interrupted`, `completed`, `cancelled` or interrupted.
-			total		// total size of download in bytes
-			downloaded:  // total downloaded size in bytes,
-			DownloadItem // [`downloadItem`](https://electron.atom.io/docs/api/download-item)
+progress 	// download progress
+speed   	// download speed
+remaining 	// download size remaining in bytes
+status		// status of download item can be `progressing`, `interrupted`, `completed`, `cancelled` or interrupted.
+total		// total size of download in bytes
+downloaded:  // total downloaded size in bytes,
+DownloadItem // [`downloadItem`](https://electron.atom.io/docs/api/download-item)
 ```
 
 #### openFolderWhenDone
