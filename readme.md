@@ -1,6 +1,6 @@
 # electron-file-downloader 
 
-> Simple file downloader library from electron app [Electron](http://electron.atom.io) app
+> Simple file downloader library for electron app [Electron](http://electron.atom.io) app
 
 
 ## Why?
